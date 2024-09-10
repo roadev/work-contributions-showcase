@@ -2,7 +2,7 @@
 
 ## Introduction
 
-I am a Front-End Web Developer with over nine years of experience in creating high-performance web applications and components. My work includes developing user-friendly interfaces and optimizing web applications for speed and scalability. Below is a selection of my web development projects, including archived web pages and GitHub repositories that showcase my expertise in HTML, CSS, JavaScript, React, Node.js, Python, and more.
+I am a Full-Stack Web Developer with over nine years of experience in creating high-performance web applications and components. My work includes developing user-friendly interfaces and optimizing web applications for speed and scalability. Below is a selection of my web development projects, including archived web pages and GitHub repositories that showcase my expertise in HTML, CSS, JavaScript, React, Node.js, Python, and more.
 
 ### Note
 
