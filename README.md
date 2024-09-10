@@ -8,6 +8,8 @@ I am a Front-End Web Developer with over nine years of experience in creating hi
 
 This portfolio highlights my work across various companies, contributions to open-source projects, and involvement in community meetups and workshops in ReactJS, JavaScript, and Ruby. I am continuously updating this portfolio as I retrieve more information from archived websites.
 
+[Online GIT version](https://github.com/roadev/work-contributions-showcase)
+
 ## Table of Contents
 
 - [Juan David Roa Valencia - Web Development Portfolio](#juan-david-roa-valencia---web-development-portfolio)
