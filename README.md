@@ -1,5 +1,7 @@
 # Juan David Roa Valencia - Web Development Portfolio
 
+## This is a WIP (Work In Progress)—less than 10% of the portfolio. Most projects are private, so I need permission from past employers in most cases!
+
 ## Introduction
 
 I am a Full-Stack Web Developer with over nine years of experience in creating high-performance web applications and components. My work includes developing user-friendly interfaces and optimizing web applications for speed and scalability. Below is a selection of my web development projects, including archived web pages and GitHub repositories that showcase my expertise in HTML, CSS, JavaScript, React, Node.js, Python, and more.
