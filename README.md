@@ -1,6 +1,6 @@
-# Juan David Roa Valencia - Web Development Portfolio
+# Juan David Roa Valencia - Web Development / Frontend Portfolio
 
-## This is a WIP (Work In Progress)—less than 10% of the portfolio. Most projects are private, so I need permission from past employers in most cases!
+## This is a WIP (Work In Progress)—less than 20% of the portfolio. Most projects are private, so I need permission from past employers in most cases!
 
 ## Introduction
 
@@ -18,6 +18,7 @@ This portfolio highlights my work across various companies, contributions to ope
   - [Introduction](#introduction)
     - [Note](#note)
   - [Table of Contents](#table-of-contents)
+  - [Ruedata Inspections Android App - React Native)](#ruedata-inc)
   - [Bloomberg Industry Group (2021)](#bloomberg-industry-group-2021)
   - [Aliciapp.co (Archived)](#aliciappco-archived)
   - [Bunny Studio Project (Archived)](#bunny-studio-project-archived)
@@ -30,13 +31,23 @@ This portfolio highlights my work across various companies, contributions to ope
 
 ---
 
+## Ruedata Inc
+
+![Ruedata Inspections Android App - React Native](./img/ruedata/ruedata.png)
+
+Ruedata Inspections published on Google Playstore, developed using **React Native**.
+
+Please take a look at the app (you can install it) and the screenshots at:
+
+[https://play.google.com/store/apps/details?id=com.ruedata.ruelitemobile&hl=en-US](https://play.google.com/store/apps/details?id=com.ruedata.ruelitemobile&hl=en-US)
+
 ## Bloomberg Industry Group (2021)
 
 ![Bloomberg Web Component](./img/uruit/bloomberg_login.png)
 
 BloombergLaw and BloombergTax Login component, developed using **Web Components API**.
 
-**Archived Version:**  
+**Archived Version:**
 [View the archived main page (2021)](https://web.archive.org/web/20211001160121/https://news.bloomberglaw.com/?target=https%3A%2F%2Fwsauth.bna.com%2Fwsauth%2Fblawauth%3Ftarget%3Dhttps%253A%252F%252Fwww.bloomberglaw.com%252Fstart%26v%3D0.1248.1)
 
 ## Aliciapp.co (Archived)
@@ -56,11 +67,11 @@ Screenshots of Aliciapp after implementing the mockups for Android and iOS using
 **Description:**
 Worked on several key components for the Bunny Studio website, including dynamic carousels, audio players, and media interaction components. These components were built using **React**, **Styled Components**, and **JSS**.
 
-**Archived Version:**  
-[View the archived main page (2020)](https://web.archive.org/web/20201103201436/http://bunnystudio.com/)  
+**Archived Version:**
+[View the archived main page (2020)](https://web.archive.org/web/20201103201436/http://bunnystudio.com/)
 [View the archived Bunny Studio Voice service (2020)](https://web.archive.org/web/20200813015000mp_/https://bunnystudio.com/voice/)
 
-**Technologies Used:**  
+**Technologies Used:**
 - React with Server Side Rendering (NextJS)
 - Styled Components
 - Microservices architecture via API calls using the browser's FETCH API
@@ -93,7 +104,7 @@ A React-based application that allows users to search and view images from NASA'
 
 **Repository:** [NASA Image Gallery on GitHub](https://github.com/roadev/nasa-image-galley)
 
-**Technologies Used:**  
+**Technologies Used:**
 - React
 - Redux
 - Styled Components
@@ -112,7 +123,7 @@ A practical React workshop project to demonstrate the creation of a complete fro
 
 **Repository:** [React Workshop on GitHub](https://github.com/roadev/react-workshop)
 
-**Technologies Used:**  
+**Technologies Used:**
 - React
 - Redux
 - CSS Modules
@@ -131,7 +142,7 @@ One of the many contributions I have made to **real-world** libraries and **open
 
 **Repository:** [Pull Request merged on GitHub](https://github.com/shimohq/react-native-prompt-android/pull/15/files)
 
-**Technologies Used:**  
+**Technologies Used:**
 - React Native
 - Android
 - Facebook's Watchman
@@ -165,7 +176,7 @@ A versatile project showcasing skills in digital measurement tools, including a 
 
 **Repository:** [Digital Flexometer on GitHub](https://github.com/roadev/digital_flexometer)
 
-**Technologies Used:**  
+**Technologies Used:**
 - AngularJS and JQuery
 - Ruby (backend)
 - REST APIs
@@ -180,7 +191,7 @@ A versatile project showcasing skills in digital measurement tools, including a 
 
 The above projects demonstrate my experience in front-end web development, component creation, and web optimization techniques. I am excited about the opportunity to bring my skills to the University of Wisconsin-Madison as a Front-End Web Developer and look forward to the possibility of discussing how I can contribute to your team.
 
-**Contact Information:**  
+**Contact Information:**
 [LinkedIn](https://linkedin.com/in/roadev) | [GitHub](https://github.com/roadev) | [Email](mailto:hello@juanroa.dev)
 
 ---
