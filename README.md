@@ -18,10 +18,13 @@ This portfolio highlights my work across various companies, contributions to ope
   - [Introduction](#introduction)
     - [Note](#note)
   - [Table of Contents](#table-of-contents)
+  - [The Digital Agronomist](#the-digital-agronomist)
+  - [Soil Net LLC new website](#soil-net-llc-website)
   - [Ruedata Inspections Android App - React Native)](#ruedata-inc)
   - [Bloomberg Industry Group (2021)](#bloomberg-industry-group-2021)
   - [Aliciapp.co (Archived)](#aliciappco-archived)
   - [Bunny Studio Project (Archived)](#bunny-studio-project-archived)
+  - [Pulpo WMS](#pulpo-wms-2016)
   - [NASA Image Gallery (GitHub)](#nasa-image-gallery-github)
   - [React Workshop (GitHub)](#react-workshop-github)
   - [Contributions to Open-Source Projects: React Native Prompt Android (GitHub)](#contributions-to-open-source-projects-react-native-prompt-android-github)
@@ -31,9 +34,26 @@ This portfolio highlights my work across various companies, contributions to ope
 
 ---
 
+## The Digital Agronomist
+
+![Digital Agronomist website](./img/soilnet/digital_agronomist.png)
+
+Landing page for the Digital Agronomist in **Nextjs**.
+
+[Digital Agronomist website](https://agronomist.digital/)
+
+## Soil Net LLC website
+
+![Soil Net website](./img/soilnet/soilnet.jpg)
+
+New website for Soil Net, Server Side Rendering, latest and high performance web technology in **Nextjs, SanityCMS**.
+
+[Soil Net LLC new website](https://soilnetllc-frontend.vercel.app/)
+
+
 ## Ruedata Inc
 
-![Ruedata Inspections Android App - React Native](./img/ruedata/ruedata.png)
+![Ruedata Inspections Android App - React Native](./img/ruedata/ruedata.jpg)
 
 Ruedata Inspections published on Google Playstore, developed using **React Native**.
 
@@ -96,6 +116,14 @@ Basic carousel. React component reused to work and fit at least 20 different use
 Some implementations with more complex internal components such as the voice-overs and their sample work used the same root component. Other sections and services use different media (video, image).
 
 ---
+
+## Pulpo WMS (Archived - 2016)
+
+![Pulpo WMS - website](./img/pulpowms/pulpowms.png)
+
+Website of Pulpo WMS (Warehouse Management System) **RAW HTML5, CSS, ES2015+**.
+
+[Pulpo WMS 2016 version](https://web.archive.org/web/20170514140440/http://www.pulpowms.com/whats-a-wms/)
 
 ## NASA Image Gallery (GitHub)
 
